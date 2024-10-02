@@ -1,4 +1,4 @@
-# Snap Sideloader
+# Snap Package Sideloader GUI
 A graphical frontend for sideloading .snap packages inspired by  
 the likes of GDebi written in C++ and using Qt.   
 ## Building
