@@ -20,3 +20,8 @@ Remove button will remove --purge, freeing up space on the disk.
 (C) Andrei Ionel 2024
 ## Other
 Snap packages documentation: https://snapcraft.io/docs/the-snap-format 
+## Screenshots
+![Sideloader3](https://github.com/user-attachments/assets/fca5dedd-63e5-495e-b11c-ade17dda5c7a)
+![Sideloader2](https://github.com/user-attachments/assets/2fe95c8e-8d5e-477e-bdbc-9494d753ad8e)
+![Sideloader1](https://github.com/user-attachments/assets/79dbf7d8-88f6-4fcc-ac8c-93c7048adf57)
+
