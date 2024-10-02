@@ -1,2 +1,22 @@
-# snap-sideloader
-A graphical frontend for sideloading .snap packages
+# Snap Sideloader
+A graphical frontend for sideloading .snap packages inspired by  
+the likes of GDebi written in C++ and using Qt.   
+## Building
+Open the project CMakeLists file in Qt Creator, and then build.
+## TODO
+- Show installation progress instead of just alerting the user  
+- Have it be able to open files straight from the file manager  
+- Improve labels and text to be more intuitive
+- Handle errors better
+- Add support for other types of packages (far future)
+- Maybe refactor some code as it it messy
+- Whatever else I forgot
+  
+Either way, I'd say the program is usable as is and it does what it's supposed to do.
+## Reinstall vs. Remove
+Reinstall button wil remove the package and install it again. Useful if you want to upgrade the package.  
+Remove button will remove --purge, freeing up space on the disk.
+## Credits
+(C) Andrei Ionel 2024
+## Other
+Snap packages documentation: https://snapcraft.io/docs/the-snap-format 
