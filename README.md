@@ -5,7 +5,8 @@ the likes of GDebi written in C++ and using Qt.
 Open the project CMakeLists file in Qt Creator, and then build.
 ## TODO
 - Toggle to install snap unconfined
-- Show installation progress instead of just alerting the user  
+- Show installation progress instead of just alerting the user
+- Move install process to another thread to keep the UI responsive  
 - Have it be able to open files straight from the file manager  
 - Improve labels and text to be more intuitive
 - Handle errors better
