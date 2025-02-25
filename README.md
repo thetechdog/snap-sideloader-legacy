@@ -29,3 +29,4 @@ Program tested on Ubuntu, Debian and Fedora amd64.
 ![Sideloader2](https://github.com/user-attachments/assets/2fe95c8e-8d5e-477e-bdbc-9494d753ad8e)
 ![Sideloader1](https://github.com/user-attachments/assets/79dbf7d8-88f6-4fcc-ac8c-93c7048adf57)
 
+EDIT: Project archived, replaced by a new version available at https://github.com/thetechdog/snap-sideloader
